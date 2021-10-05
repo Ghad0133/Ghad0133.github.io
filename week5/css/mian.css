@@ -6,7 +6,7 @@ p, li{
 }
 
 section h1{
-    color: chocolate;
+    color: rgb(199, 83, 0);
 }
 
 .second-heading{
@@ -22,7 +22,7 @@ a [href="http://google.ca"]{
     color: seagreen;
 }
 a:link{
-    color: hotpink;
+    color: #939
 }
 
 a:visted{
@@ -39,4 +39,8 @@ a:active{
 
 a [href="http://facebook.com"] {
     color: cornflowerblue
+}
+
+li:nth-child(odd) {
+    background-color: maroon;
 }
