@@ -18,11 +18,11 @@ section h1{
     font-weight: bold;
 }
 
-a{
+a [href="http://google.ca"]{
     color: seagreen;
 }
 a:link{
- color: hotpink;
+    color: hotpink;
 }
 
 a:visted{
