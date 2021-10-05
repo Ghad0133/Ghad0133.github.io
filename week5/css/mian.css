@@ -1,0 +1,27 @@
+body{
+    color: blue;
+}
+p, li{
+    color: rgb(132, 0, 255);
+}
+
+section h1{
+    color: chocolate;
+}
+
+.second-heading{
+    color: crimson;
+}
+
+#main-section{
+    color: pink;
+    font-weight: bold;
+}
+
+a{
+    color: seagreen;
+}
+
+a [href="http://facebook.com"] {
+    color: cornflowerblue
+}
