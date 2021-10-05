@@ -21,6 +21,21 @@ section h1{
 a{
     color: seagreen;
 }
+a:link{
+ color: hotpink;
+}
+
+a:visted{
+    color:indianred
+}
+
+a:hover{
+    color:lawngreen
+}
+
+a:active{
+    color:lightseagreen
+}
 
 a [href="http://facebook.com"] {
     color: cornflowerblue
