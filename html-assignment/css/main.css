@@ -7,9 +7,9 @@ header, footer{
     background-color: cornflowerblue;
     }
 
-ul:nth-child(odd)
+ul li:nth-child(odd)
 {
-background-color: cornflowerblue;
+background-color:indianred;
 }
 
 ul{
