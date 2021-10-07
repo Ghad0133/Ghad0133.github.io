@@ -22,7 +22,8 @@ a [href="http://google.ca"]{
     color: seagreen;
 }
 a:link{
-    color: #939
+    color: #939;
+    text-decoration: none; 
 }
 
 a:visted{
