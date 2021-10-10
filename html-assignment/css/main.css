@@ -19,7 +19,6 @@ ul{
 #image
 {
 box-shadow: black 1px 1px;  
-
 }
 
 a:link{
@@ -30,5 +29,4 @@ a:link{
 
 a:hover{
     background-color: darkgoldenrod;
-
 }
