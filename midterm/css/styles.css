@@ -1,3 +1,7 @@
+body{
+    background-color: #aad4cf;
+}
+
 img{
     width: 80%;
     display: block;
@@ -11,7 +15,7 @@ img{
     color: white;
 }
 
-.centertext{
+.lonestarfish{
     color: white;
     position: absolute;
     top: 50%;
@@ -19,9 +23,9 @@ img{
     transform: translate(-50%, -50%);
     padding-top: 5rem;
     font-size: 3rem;
-    
 }
 
-body{
-    background-color: #aad4cf;
+.home,.story,.contact{
+    display: inline;
+    padding-left: 12.5rem;
 }
