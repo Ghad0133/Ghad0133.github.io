@@ -51,4 +51,22 @@ img{
 P{
     font-size: 30px;
     padding-top: 4rem;
+    word-wrap: break-word;
+    margin: auto;
+    margin-left: 10%;
+    
+}
+
+.facts{
+    margin-left: 10%;
+    font-size: 3rem;
+}
+
+ul li{
+    margin-left: 10%;
+}
+
+.footer{
+    position: absolute;
+    right: 10%;
 }
