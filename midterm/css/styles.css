@@ -70,6 +70,8 @@ ul li{
 .footer{
     position: absolute;
     right: 10%;
+    padding: 2%;
+    font-weight: bold;
 }
 
 .learnmore{
