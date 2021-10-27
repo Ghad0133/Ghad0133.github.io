@@ -73,10 +73,46 @@ ul li{
 }
 
 .learnmore{
-    padding-left: 10%;
+    margin-left: 10%;
     font-size: 2rem;
 }
 
 button{
     background-color: #aad4cf;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+.options{
+    margin-left: 1%;
+    padding-top: 1%;
+}
+
+.name{
+    margin-left: 1%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
+
+.email{
+    margin-left: 1%;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.message{
+    margin-left: 1%;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.border{
+    border-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.visit{
+    margin-left: 1%;
 }
