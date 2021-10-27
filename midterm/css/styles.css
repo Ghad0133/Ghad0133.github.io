@@ -1,4 +1,3 @@
-
 body{
     background-color: #aad4cf;
 }
@@ -88,6 +87,7 @@ button{
 .options{
     margin-left: 1%;
     padding-top: 1%;
+    font-weight: bold;
 }
 
 .name{
