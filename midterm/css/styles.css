@@ -1,3 +1,4 @@
+
 body{
     background-color: #aad4cf;
 }
@@ -51,7 +52,6 @@ P{
     font-size: 30px;
     padding-top: 4rem;
     word-wrap: break-word;
-    margin: auto;
     margin-left: 10%;
     
 }
