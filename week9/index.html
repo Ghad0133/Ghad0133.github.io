@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css responsive demo</title>
+    
+    <style>
+        
+        body{
+            background: hotpink;
+            padding: 0; margin: 0;
+            font-size: 1.5rem;
+         }
+
+         h1,h2,h3,h4,h5,h6{
+             margin: 0;
+         }
+        
+
+        header, main, footer{
+            width: 100%;
+            margin: 0 auto;
+            background: ivory;
+        }
+
+        header{
+            background: blue;
+            color: white;
+        }
+
+        /* tablet width 600 1000px */
+        @media screen and (min-width: 600px) and (max-width: 999px) {
+            
+        }
+
+        body{
+            font-size: 2.5rem;
+            background: indigo;
+        }
+
+        header{
+            background: green;
+        }
+        .container{
+            width: 500px;
+        }
+
+        @media screen and (min-width: 1000px) {
+
+        body {
+            background: greenyellow;
+        }
+
+        .container{
+            width: 900px;
+        }
+    }
+
+    </style>
+    
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Head 1</h1>
+    </header>
+    <main>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, eligendi ipsa! Ea, maxime blanditiis. Sapiente, molestiae natus qui libero ex, fugiat consequuntur perspiciatis blanditiis maxime officiis laborum facilis quasi enim!</p>
+    </main>
+    <footer>
+       &copy; algonquin college 
+    </footer>
+</div>
+    
+</body>
+</html>
