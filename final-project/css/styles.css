@@ -66,7 +66,8 @@ ul li{
 
 .main-banner{
 
-    width: 80%;
+    width: 100%;
+    height: auto;
 }
 
 .welcome h1{
@@ -98,4 +99,235 @@ ul li{
    background-color: rgb(32, 32, 32);opacity: 0.9;
    color: orange;
 }
+
+
+@media only screen and (max-width: 760px) { 
+
+    .aboutus h1{
+        font-size: 4rem;
+        font-family: sans-serif;
+        font-weight: 750;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 2%;
+    }
+
+    .aboutus {
+        background-color: rgb(238, 217, 150);
+        margin-left: 5%;
+    }
+
+    .aboutus p{
+        font-family: sans-serif;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 2%;
+        
+    }
+
+    .aboutus img{
+        max-width: 100%;
+        height: auto;
+    }
+   
+    .ourservices {
+        font-size: 3.5rem;
+        font-family: sans-serif;
+        font-weight: 750;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+    }
+
+    .digital {
+        background-color: rgb(238, 217, 150);
+        margin-left: 5%;
+    }
+
+    .digital p{
+        font-family: sans-serif;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+
+    .digital h2{
+        font-size: 2.5rem;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 2%;
+        font-weight: 700;
+        font-family: sans-serif;
+
+    }
+
+    .marketing{
+        background-color: rgb(238, 217, 150);
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+        
+    }
+
+    .marketing h2{
+        font-size: 2.5rem;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 2%;
+        font-weight: 700;
+        font-family: sans-serif;
+    }
+
+    .marketing p{
+    font-family: sans-serif;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    }
+
+    .video{
+        background-color: rgb(238, 217, 150);
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+    }
+
+    .video h2{
+        font-size: 2.5rem;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 2%;
+        font-weight: 700;
+        font-family: sans-serif;
+    }
+
+    .video p{
+        font-family: sans-serif;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .web{
+        background-color: rgb(238, 217, 150);
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+    }
+
+    .web h2{
+        font-size: 2.5rem;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 2%;
+        font-weight: 700;
+        font-family: sans-serif;
+    }
+
+    .web p{
+        font-family: sans-serif;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .print{
+        background-color: rgb(238, 217, 150);
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+    }
+
+    .print h2{
+        font-size: 2.5rem;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 2%;
+        font-weight: 700;
+        font-family: sans-serif;
+    }
+
+    .print p{
+        font-family: sans-serif;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .vision img{
+        max-width: 100%;
+        height: auto;
+    }
+
+    .john{
+        background-color: rgb(238, 217, 150);
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+        
+    }
+
+    .john img{
+        max-width: 100%;
+        height: auto;
+    }
+
+    .john h2{
+        font-size: 2.5rem;
+        margin-top: 5%;
+        margin-left: 2%;
+        font-weight: 700;
+        font-family: sans-serif;
+    }
+
+    .john h3{
+        font-weight: bolder;
+        margin-left: 2%;
+    }
+
+    .john p{
+        font-family: sans-serif;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .team h1{
+        font-size: 4rem;
+        font-family: sans-serif;
+        font-weight: 750;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+    }
+
+    .bob{
+        background-color: rgb(238, 217, 150);
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+        
+    }
+
+    .bob img{
+        max-width: 100%;
+        height: auto;
+    }
+
+    .bob h2{
+        font-size: 2.5rem;
+        margin-top: 5%;
+        margin-left: 2%;
+        font-weight: 700;
+        font-family: sans-serif;
+    }
+
+    .bob h3{
+        font-weight: bolder;
+        margin-left: 2%;
+    }
+
+    .bob p{
+        font-family: sans-serif;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+}
+
+
 
